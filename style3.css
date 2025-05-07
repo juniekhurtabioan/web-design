@@ -1,0 +1,37 @@
+
+.text{
+    text-align: center;
+}
+.hero {
+    background: #f8f9fa;
+    padding: 60px 0;
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  .hero h4 {
+    margin-top: 20px;
+    font-weight: 40;
+   
+  }
+.van {
+    margin-top: 20px;
+    height: 50%;
+    width: 50pc;
+    border-radius: 2%;
+   
+  }
+  .features {
+    background: #ffffff;
+    padding: 60px 0;
+  }
+  .features h2 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .video-container {
+    text-align: center;
+    margin-top: 40px;
+  }
